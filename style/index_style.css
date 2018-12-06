@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+}
+
+nav {
+    align-items: center;
+    display: flex;
+    height: 85%;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+footer, header {
+    height: 5%;
+    text-align: center;
+}
+
+header {
+    margin-top: 1em;
+}
+
+.index-btn {
+    font-size: 3em;
+}
+
+.message {
+    color: green;
+    min-height: 40px;
+    text-align: center;
+}
